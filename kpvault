@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "Starting vault server"
+nohup python3 /opt/kpvault/web_app.py >> /opt/kpvault/logs/app.log 2>&1 &
+
