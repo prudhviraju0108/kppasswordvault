@@ -1,0 +1,18 @@
+ * Serving Flask app 'web_app' (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://172.31.44.229:8080/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 353-633-741
+70.162.162.95 - - [15/Apr/2022 06:38:08] "GET /content HTTP/1.1" 200 -
+70.162.162.95 - - [15/Apr/2022 06:38:09] "GET /content HTTP/1.1" 200 -
+70.162.162.95 - - [15/Apr/2022 06:38:10] "GET /dtls HTTP/1.1" 200 -
+ * Detected change in '/opt/kpvault/web_app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 353-633-741
